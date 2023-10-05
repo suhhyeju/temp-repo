@@ -24,11 +24,17 @@
 - Linux is a multi-user system.
 - Files and directories have a permission assigned differently to owner / group / others
 
-Meaning
+*changing permissions*
 ```sh
 $ 777
-$ 
-$ conda activate cv_detection
-$ python --version
-$ python example.py
+$ 755
+$ 700
+$ 666
+$ 644
+$ 600
 ```
+Superuser
+- A superuser has all system administation authority.
+- Some commands need superuser’s privilleges.
+- Put “sudo” before the command if you are a superuser.
+- Type “exit” to get out of a superuser session.
