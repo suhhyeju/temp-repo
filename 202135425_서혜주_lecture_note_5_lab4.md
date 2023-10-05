@@ -23,8 +23,10 @@
 
 - Linux is a multi-user system.
 - Files and directories have a permission assigned differently to owner / group / others
+
+Meaning
 ```sh
-$ File type: indicates regular file d indicates directory
+$ 777
 $ 
 $ conda activate cv_detection
 $ python --version
