@@ -17,7 +17,6 @@
 ### Expansion
 - Special characters expand its meaning when given to shell commands
 
-*Backslah can be used to ignore line change in command (“enter”), to enter a long command in multiple lines*
 ---
 ### Permissions
 
