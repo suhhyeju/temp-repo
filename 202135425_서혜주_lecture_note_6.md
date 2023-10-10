@@ -1,8 +1,9 @@
 # lecture summary
 ---
-### I/O Redirection: Standard Output
-- You can redirect output using “>” after a command (e.g., ls) to create and save the output in a file.
-- Using “>>” appends output to an extising file (if it already exitsts), or create and write to a new file if it doesn’t exist.
+
+It’s essential to use a version control system for software development 
+and other documentation works.
+So we make copies, and we need a systematic management system for version control and collaboration.
 
 ### I/O Redirection: Standard Input
 - Using “>>” appends output to an extising file (if it already exitsts), or create and write to a new file if it doesn’t exist
